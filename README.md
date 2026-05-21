@@ -2,4 +2,8 @@ DIFFERENTIAL WHEELED SOCCER ROBOT
 
 HCMUT'S FINAL THESIS
 
-Name: BUI VIET THANG
+Name: 
+  BUI VIET THANG
+  PHAN TIEN MINH
+
+Video Demo: https://www.youtube.com/watch?v=99H5goSYW_k
